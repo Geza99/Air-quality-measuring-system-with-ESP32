@@ -1,0 +1,32 @@
+{
+    "terminal.integrated.env.windows": {
+        "PATH": "C:\\Users\\mgd4clj\\.platformio\\penv\\Scripts;C:\\Users\\mgd4clj\\.platformio\\penv;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Common Files\\Open Text\\Spawner\\bin;C:\\Oracle\\Oracle32\\Cli11gR2040\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\OpenText\\Viewer\\bin;C:\\Program Files (x86)\\OpenText\\Scan\\bin;C:\\Program Files\\7-Zip;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\PuTTY\\;C:\\Program Files\\CMake\\bin;C:\\Program Files\\7-Zip;C:\\Program Files\\MiKTeX 2.9\\miktex\\bin\\x64\\;C:\\Program Files (x86)\\CineForm\\Tools;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Git\\cmd;C:\\Python36\\Scripts\\;C:\\Python36\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files (x86)\\GnuWin32\\bin;C:\\Users\\mgd4clj\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts;C:\\MinGW\\bin;C:\\MinGW\\MSYS\\1.0\\bin;C:\\SysGCC\\Raspberry\\bin;C:\\Program Files\\CMake\\bin;C:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C:\\Program Files\\Common Files\\Open Text\\Spawner\\bin;C:\\Oracle\\Oracle32\\Cli11gR2040\\bin;C:\\Windows\\system32;C:\\Windows;C:\\Windows\\System32\\Wbem;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files (x86)\\OpenText\\Viewer\\bin;C:\\Program Files (x86)\\OpenText\\Scan\\bin;C:\\Program Files\\7-Zip;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\PuTTY\\;C:\\Program Files\\CMake\\bin;C:\\Program Files\\7-Zip;C:\\Program Files\\MiKTeX 2.9\\miktex\\bin\\x64\\;C:\\Program Files (x86)\\CineForm\\Tools;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C:\\Program Files\\Git\\cmd;C:\\Python36\\Scripts\\;C:\\Python36\\;C:\\Program Files\\Microsoft VS Code\\bin;C:\\Program Files (x86)\\GnuWin32\\bin;C:\\Users\\mgd4clj\\AppData\\Local\\Programs\\Python\\Python36-32\\Scripts;C:\\MinGW\\bin;C:\\MinGW\\MSYS\\1.0\\bin;C:\\SysGCC\\Raspberry\\bin;C:\\Program Files\\CMake\\bin",
+        "PLATFORMIO_CALLER": "vscode"
+    },
+    "files.associations": {
+        "menu.h": "c",
+        "hardwareserial.h": "c",
+        "bsec_integration.h": "c",
+        "array": "cpp",
+        "initializer_list": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "tuple": "cpp",
+        "utility": "cpp",
+        "cmath": "cpp",
+        "unordered_map": "cpp",
+        "vector": "cpp",
+        "arduino.h": "c",
+        "gpio_reg.h": "c",
+        "bme680.h": "c",
+        "bme680_defs.h": "c",
+        "bsec_interface.h": "c",
+        "*.tcc": "cpp",
+        "random": "cpp",
+        "fstream": "cpp",
+        "iomanip": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp"
+    }
+}
